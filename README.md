@@ -1,21 +1,28 @@
 <p align="center">
-<a href="https://axyl-os.github.io" target="_blank"><img src="archiso/airootfs/usr/share/axyl.png" width="250px" height="auto"/></a>
+<a href="https://axyl.org" target="_blank"><img src="archiso/airootfs/usr/share/axyl.png" width="250px" height="auto"/></a>
 </p>
 
-<p align="center">
-<a href="https://www.paypal.com/donate?hosted_button_id=GTLF6LZ5LRSE4"><img width="32px" src="https://raw.githubusercontent.com/Kungger-git/files/master/imgs/ppal.png" alt="Support my work via Paypal"></a>
-</p>
+<div align="center">
+    If you like this Operating System please consider donating on patreon, kofi, or BMAC
+    <br>
+    <a href="https://patreon.com/awfixer">Patreon</a> | <a href="https://ko-fi.com/awfixer">Ko-Fi</a> | <a href="https://buymeacoffee.com/austinware">BMAC</a>
+    <br>
+    it really means a lot
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-Green?style=flat-square">
-  <img src="https://img.shields.io/github/downloads/axyl-os/axyl-iso/total?label=downloads&logo=github&color=blue&style=flat-square">
-  <img src="https://img.shields.io/github/stars/axyl-os/axyl-iso?style=flat-square">
-  <img src="https://img.shields.io/github/issues/axyl-os/axyl-iso?color=violet&style=flat-square">
+  <img src="https://img.shields.io/github/downloads/awfixer/axylos-iso/total?label=downloads&logo=github&color=blue&style=flat-square">
+  <img src="https://img.shields.io/github/stars/awfixer/axylos-iso?style=flat-square">
+  <img src="https://img.shields.io/github/issues/awfixer/axylos-iso?color=violet&style=flat-square">
 </p>
 
 <p align="center">
 Introducing a new minimal Arch-based GNU/Linux Distribution
 </p>
+
+<h1 align="center">join the <a href="https://discord.awfixer.me">Discord</a></h1>
 
 ## Table of Contents
 
@@ -153,6 +160,6 @@ Qtile|Xmonad
 
 <a id="install"></a>
 ## Installation
-Once you boot up Axyl and entered dwm desktop, you can start the 
-Calamares installer by launching `dmenu` by hitting: `Superkey + D` 
+Once you boot up Axyl and entered dwm desktop, you can start the
+Calamares installer by launching `dmenu` by hitting: `Superkey + D`
 on your keyboard and type in: `calinstall`
