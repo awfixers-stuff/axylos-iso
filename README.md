@@ -24,6 +24,8 @@ Introducing a new minimal Arch-based GNU/Linux Distribution
 
 <h1 align="center">join the <a href="https://discord.awfixer.me">Discord</a></h1>
 
+<h1 align="center"> All Development is done on this laptop, consider that before complaining about development speed </h1>
+
 <div align="center">
     <a href="https://coff.ee/awfixer"><img src=./IMG_20250614_171104955.jpg></a>
 </div>
