@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-Introducing a new minimal Arch-based GNU/Linux Distribution
+(RE)Introducing a new minimal Arch-based GNU/Linux Distribution
 </p>
 
 <h1 align="center">apply to join the <a href="https://awfixer.link/discord">Discord</a></h1>
