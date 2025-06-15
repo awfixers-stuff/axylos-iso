@@ -17,6 +17,16 @@
   <img src="https://img.shields.io/github/issues/awfixers-stuff/axylos-iso?color=violet&style=flat-square">
 </p>
 
+<div align="center">
+
+[![Build Arch ISO with ArchInstall Commit](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-iso.yaml/badge.svg)](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-iso.yaml)
+
+[![Publish Docker image](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-image.yaml/badge.svg)](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-image.yaml)
+
+[![CodeQL](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/github-code-scanning/codeql)
+
+</div>
+
 <p align="center">
 (RE)Introducing a new minimal Arch-based GNU/Linux Distribution
 </p>
