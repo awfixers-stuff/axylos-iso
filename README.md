@@ -13,9 +13,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-Green?style=flat-square">
-  <img src="https://img.shields.io/github/downloads/awfixer/axylos-iso/total?label=downloads&logo=github&color=blue&style=flat-square">
-  <img src="https://img.shields.io/github/stars/awfixer/axylos-iso?style=flat-square">
-  <img src="https://img.shields.io/github/issues/awfixer/axylos-iso?color=violet&style=flat-square">
+  <img src="https://img.shields.io/github/stars/awfixers-stuff/axylos-iso?style=flat-square">
+  <img src="https://img.shields.io/github/issues/awfixers-stuff/axylos-iso?color=violet&style=flat-square">
 </p>
 
 <p align="center">
