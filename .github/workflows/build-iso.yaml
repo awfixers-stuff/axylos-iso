@@ -1,6 +1,6 @@
 # This workflow is responsible for building the ISO. IT DOES NOT CURRENTLY WORK
 
-name: Build Arch ISO with ArchInstall Commit
+name: Build AxylOS ISO
 
 on:
   push:

@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Build Arch ISO with ArchInstall Commit](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-iso.yaml/badge.svg)](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-iso.yaml)
+[![Build AxylOS ISO](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-iso.yaml/badge.svg)](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-iso.yaml)
 
 [![Publish Docker image](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-image.yaml/badge.svg)](https://github.com/awfixers-stuff/axylos-iso/actions/workflows/build-image.yaml)
 
