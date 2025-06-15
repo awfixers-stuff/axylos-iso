@@ -22,7 +22,7 @@
 Introducing a new minimal Arch-based GNU/Linux Distribution
 </p>
 
-<h1 align="center">join the <a href="https://discord.awfixer.me">Discord</a></h1>
+<h1 align="center">apply to join the <a href="https://awfixer.link/discord">Discord</a></h1>
 
 <h1 align="center"> All Development is done on this laptop, consider that before complaining about development speed </h1>
 
