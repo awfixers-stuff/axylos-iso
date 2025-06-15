@@ -1,4 +1,4 @@
-# This workflow will build an Arch Linux ISO file with the commit on it
+# This workflow is responsible for building the ISO. IT DOES NOT CURRENTLY WORK
 
 name: Build Arch ISO with ArchInstall Commit
 
