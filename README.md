@@ -5,7 +5,7 @@
 <div align="center">
     If you like this Operating System please consider donating on patreon, kofi, or BMAC
     <br>
-    <a href="https://patreon.com/awfixer">Patreon</a> | <a href="https://ko-fi.com/awfixer">Ko-Fi</a> | <a href="https://buymeacoffee.com/austinware">BMAC</a>
+    <a href="https://patreon.com/awfixer">Patreon</a> | <a href="https://ko-fi.com/awfixer">Ko-Fi</a> | <a href="https://coff.ee/awfixer">BMAC</a>
     <br>
     it really means a lot
 
